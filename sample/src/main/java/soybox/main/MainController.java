@@ -17,6 +17,7 @@ public class MainController {
 		
 		
 		System.out.println("이슈1에서 커밋!");
+		System.out.println("이슈1에서 커밋2번째");
 		return result;
 	}
 }
