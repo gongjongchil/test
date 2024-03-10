@@ -15,6 +15,8 @@ public class MainController {
 		Map<String,Object> result = new HashMap<String,Object>();
 		result.put("hello", "world");
 		
+		
+		System.out.println("이슈1에서 커밋!");
 		return result;
 	}
 }
